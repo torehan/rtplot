@@ -1,0 +1,5 @@
+matplotlib==3.4.3
+numpy==1.21.4
+numpy_ringbuffer==0.2.1
+pyserial==3.5
+PySimpleGUI==4.55.1
